@@ -5,3 +5,4 @@ pip install numpy
 pip install matplotlib
 pip install tensorflow_datasets
 pip install tensorflow-metal
+pip install scipy
